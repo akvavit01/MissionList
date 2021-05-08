@@ -1,0 +1,22 @@
+{
+  "name": "MissionList",
+  "keywords": "mission, queue, list, event, task, taskscheduler, scheduling",
+  "description": "An arduino queue library for storing commands to be executed",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/akvavit01/MissionList"
+  },
+  "authors":
+  [
+    {
+      "name": "Leonardi",
+      "email": "leochen123987@gmail.com",
+      "url": "https://github.com/arkhipenko",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
